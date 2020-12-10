@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Hassia
 
-my name is Hassia and I’m a data scientist finding my path in the field. I have a strong experience in providing data-driven solutions to challenging business problems as well as a strong programming and communication skills. I am interested in all things anlytical, namely statistical analysis, machine learning, natural language processing and computer vision
+my name is Hassia and I’m a data scientist with a strong experience in providing data-driven solutions to challenging business problems as well as a strong programming and communication skills. I am interested in all things anlytical, namely statistical analysis, machine learning, natural language processing and computer vision
 
-I have a background in computer science and I am currently living/working in NYC. I am also a community manager at Women In Data-NYC Chapter. I help organize events, find mentorship programs and sponsors. 
+I have a background in computer science and I am currently working in NYC at AxiomSL. I am also a community manager at Women In Data-NYC Chapter. I help organize events, find mentorship programs and sponsors. 
 
 In my free time I like cycling, running, reading and watching interesting TV Shows. 
 
