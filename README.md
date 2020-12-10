@@ -5,3 +5,6 @@ my name is Hassia and I’m a data scientist finding my path in the field. I hav
 I have a background in computer science and I am currently living/working in NYC. I am also a commynity manager at Women In Data-NYC Chapter. I help organize events, find mentorship programs and sponsors. 
 
 In my free time I like cycling, running, reading and watching interesting TV Shows. 
+
+Connet with me [twitter](https://twitter.com/assiah01)
+               [LinkedIn](https://www.linkedin.com/in/hassia-alzouma-7b59b363/)
