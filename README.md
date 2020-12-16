@@ -8,3 +8,4 @@ In my free time I like cycling, running, reading and watching interesting TV Sho
 
 Connet with me [twitter](https://twitter.com/assiah01)
                [LinkedIn](https://www.linkedin.com/in/hassia-alzouma-7b59b363/)
+               [Medium](https://halzouma.medium.com/)
